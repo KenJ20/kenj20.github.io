@@ -1,9 +1,13 @@
 
 
 <article>
-    <h1>We&rsquo;ll be back soon!</h1>
+    <h1>
+    I'm Back!
+    </h1>
     <div>
-        <p>Sorry for the inconvenience but we&rsquo;re performing some maintenance at the moment. We&rsquo;ll be back online shortly!</p>
+        <p>
+        I'm up!
+        </p>
         <p>&mdash; Kenny</p>
     </div>
 </article>
