@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1439715f840cb4c54cf9167690bba65c",
+    "revision": "08485c22403ea85ad1814e733bbc4874",
     "url": "/index.html"
   },
   {
-    "revision": "4aeac65eaf3cabea13e7",
+    "revision": "dd4f3641ecadd2870389",
     "url": "/static/css/3.2240b4a7.chunk.css"
   },
   {
-    "revision": "6dc41f1351292eab1d00",
+    "revision": "e3b04b4aa43235033842",
     "url": "/static/css/4.6f900a2d.chunk.css"
   },
   {
-    "revision": "8a9f254ba3e81014f0c9",
-    "url": "/static/css/main.d05b7f17.chunk.css"
+    "revision": "4fc6053cdb5f94988ac6",
+    "url": "/static/css/main.d589485f.chunk.css"
   },
   {
-    "revision": "ece50f9fe0ece509d969",
-    "url": "/static/js/2.165c99b6.chunk.js"
+    "revision": "31a57b99c4fc1a6db502",
+    "url": "/static/js/2.fd9be6b7.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.165c99b6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.fd9be6b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4aeac65eaf3cabea13e7",
-    "url": "/static/js/3.7ca30ade.chunk.js"
+    "revision": "dd4f3641ecadd2870389",
+    "url": "/static/js/3.00d49fab.chunk.js"
   },
   {
-    "revision": "6dc41f1351292eab1d00",
-    "url": "/static/js/4.3834c8de.chunk.js"
+    "revision": "e3b04b4aa43235033842",
+    "url": "/static/js/4.7e77a6e9.chunk.js"
   },
   {
-    "revision": "8a9f254ba3e81014f0c9",
-    "url": "/static/js/main.09de90bc.chunk.js"
+    "revision": "4fc6053cdb5f94988ac6",
+    "url": "/static/js/main.26726a4a.chunk.js"
   },
   {
-    "revision": "48ab362d6fd899c615d0",
-    "url": "/static/js/runtime-main.838a57b0.js"
+    "revision": "62edf8be6d7eb7d9fc82",
+    "url": "/static/js/runtime-main.0d723814.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -82,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "0990687915aafcd099ce558d7e24faa5",
