@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.851877e3.chunk.css",
-    "main.js": "/static/js/main.9d8368e8.chunk.js",
-    "main.js.map": "/static/js/main.9d8368e8.chunk.js.map",
+    "main.js": "/static/js/main.9826bf39.chunk.js",
+    "main.js.map": "/static/js/main.9826bf39.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9c69306b.js",
     "runtime-main.js.map": "/static/js/runtime-main.9c69306b.js.map",
-    "static/js/2.fc276a1c.chunk.js": "/static/js/2.fc276a1c.chunk.js",
-    "static/js/2.fc276a1c.chunk.js.map": "/static/js/2.fc276a1c.chunk.js.map",
+    "static/js/2.f240dc1c.chunk.js": "/static/js/2.f240dc1c.chunk.js",
+    "static/js/2.f240dc1c.chunk.js.map": "/static/js/2.f240dc1c.chunk.js.map",
     "static/css/3.1f4c26b8.chunk.css": "/static/css/3.1f4c26b8.chunk.css",
     "static/js/3.c4d4aae2.chunk.js": "/static/js/3.c4d4aae2.chunk.js",
     "static/js/3.c4d4aae2.chunk.js.map": "/static/js/3.c4d4aae2.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.17e13112.chunk.js": "/static/js/4.17e13112.chunk.js",
     "static/js/4.17e13112.chunk.js.map": "/static/js/4.17e13112.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2c82de74c1490af0dc9ee7c5823e10b3.js": "/precache-manifest.2c82de74c1490af0dc9ee7c5823e10b3.js",
+    "precache-manifest.797f897bb66f9e977723b4ce9059411e.js": "/precache-manifest.797f897bb66f9e977723b4ce9059411e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.1f4c26b8.chunk.css.map": "/static/css/3.1f4c26b8.chunk.css.map",
     "static/css/4.9f3d1d9d.chunk.css.map": "/static/css/4.9f3d1d9d.chunk.css.map",
     "static/css/main.851877e3.chunk.css.map": "/static/css/main.851877e3.chunk.css.map",
-    "static/js/2.fc276a1c.chunk.js.LICENSE.txt": "/static/js/2.fc276a1c.chunk.js.LICENSE.txt",
+    "static/js/2.f240dc1c.chunk.js.LICENSE.txt": "/static/js/2.f240dc1c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/UAV.png": "/static/media/UAV.e8af07b1.png",
     "static/media/apple.png": "/static/media/apple.21f57837.png",
@@ -39,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9c69306b.js",
-    "static/js/2.fc276a1c.chunk.js",
+    "static/js/2.f240dc1c.chunk.js",
     "static/css/main.851877e3.chunk.css",
-    "static/js/main.9d8368e8.chunk.js"
+    "static/js/main.9826bf39.chunk.js"
   ]
 }
